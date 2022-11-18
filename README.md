@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/prijith-peter-87a084173">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://jithuprijith.github.io/Prijith-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
   </a>
 <!--   <a href="your-twitter-URL">
